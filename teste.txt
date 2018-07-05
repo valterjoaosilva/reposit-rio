@@ -1,7 +1,8 @@
 int main{
 int n1; 
-if (n1<3){
+if (n1<130){
 print "o cavalo é amarelo";
-scanf ("%d" &n1);
+	Printf("digite peso"
+	Scanf ("%d", &n1);
 }
 }
