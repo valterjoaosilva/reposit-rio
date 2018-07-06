@@ -1,8 +1,10 @@
 int main{
 int n1; 
 if (n1<130){
-print "o cavalo é amarelo";
+print "estamos sobre um novo sol";
 	Printf("digite peso"
 	Scanf ("%d", &n1);
+//todos devem ao rodar esse programa zerar as bases
+//banco de dados alterado 
 }
 }
