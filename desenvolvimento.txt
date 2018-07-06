@@ -1,0 +1,2 @@
+aqui todas as funcionalidades devem ser web
+	podemos trabalhar com java
