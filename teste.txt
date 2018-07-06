@@ -7,4 +7,4 @@ print "estamos sobre um novo sol";
 //todos devem ao rodar esse programa zerar as bases
 //banco de dados alterado 
 }
-}
+}x
